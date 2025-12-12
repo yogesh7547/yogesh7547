@@ -16,16 +16,10 @@ Student • Open to work — actively building projects and seeking opportunitie
 - Tools: Git, GitHub, VS Code, Postman, Vercel
 
 ## Featured projects
-(Click a card to open the repo. Replace the preview placeholders with screenshots or GIFs if available.)
 
-- qutube- — https://github.com/yogesh7547/qutube-  
-  [![qutube preview](https://via.placeholder.com/400x200?text=qutube+-+preview)](https://github.com/yogesh7547/qutube-)
-
-- Dice-guessing-game — https://github.com/yogesh7547/Dice-guessing-game  
-  [![dice game preview](https://via.placeholder.com/400x200?text=Dice+Guessing+Game)](https://github.com/yogesh7547/Dice-guessing-game)
-
-- Foody-zone- — https://github.com/yogesh7547/Foody-zone-  
-  [![foody zone preview](https://via.placeholder.com/400x200?text=Foody+Zone)](https://github.com/yogesh7547/Foody-zone-)
+- [qutube-](https://github.com/yogesh7547/qutube-)
+- [Dice-guessing-game](https://github.com/yogesh7547/Dice-guessing-game)
+- [Foody-zone-](https://github.com/yogesh7547/Foody-zone-)
 
 For details and demos, see each repository's README.
 
@@ -41,10 +35,5 @@ For details and demos, see each repository's README.
 - GitHub: https://github.com/yogesh7547  
 - LinkedIn: https://www.linkedin.com/in/yogesh-kurmalker-741166311/  
 - Email: yogeshkurmalker7@gmail.com
-
-## Stats
-<!-- GitHub activity cards (replace theme or params if you prefer a different style) -->
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogesh7547&show_icons=true&hide=prs&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh7547&layout=compact&theme=default)
 
 ---
